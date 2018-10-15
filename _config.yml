@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ethan Schorer
+title: Ethan Schorer's Security Blog
 #email: You gotta work to get it
 description: >- # this means to ignore newlines until "baseurl:"
   Ethan Schorer has been involved in cyber security for the past 20 years as an IT administrator 
@@ -25,6 +25,9 @@ url: "https://ethans.github.io" # the base hostname & protocol for your site, e.
 twitter_username: ethan_sec
 github_username:  ethans
 linkedin_username: ethans
+
+
+google_analytics: UA-127516839-1
 
 # Build settings
 markdown: kramdown
