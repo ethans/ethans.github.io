@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ethan Schorer's Security Blog
+author: Ethan Schorer
 #email: You gotta work to get it
 description: >- # this means to ignore newlines until "baseurl:"
   Ethan Schorer has been involved in cyber security for the past 20 years as an IT administrator 
